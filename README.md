@@ -18,7 +18,7 @@ This repository contains public releases of the **ROK Data Scraper** application
 - Ensure you have the necessary permissions for data extraction.
 
 ## Contribution
-Feel free to open issues or submit pull requests if you find any bugs or have feature suggestions.
+Feel free to open issues if you find any bugs or have feature suggestions.
 
 ## License
 This project is licensed under the MIT License.
