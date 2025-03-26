@@ -1,12 +1,16 @@
-# ROK Data Scraper - Public Releases
+# ROK Data Scraper & Key Manager - Public Releases
 
 ## Overview
-This repository contains public releases of the **ROK Data Scraper** application, designed to extract and process data from the game *Rise of Kingdoms (ROK)*.
+This repository contains public releases of the **ROK Data Scraper & Key Manager** application. It is designed not only to extract and process data from the game *Rise of Kingdoms (ROK)*, but also to manage the sale and rental of keys for associated services. This dual functionality allows users to benefit from both automated data scraping and a convenient key management system.
 
 ## Features
-- Automatic data scraping from ROK
-- Data processing and visualization
-- Integration with other ROK tools
+- **Data Scraping & Processing**
+  - Automatic data scraping from ROK
+  - Data processing and visualization
+  - Integration with other ROK tools
+- **Key Sale and Rental Management**
+  - Seamlessly manage the sale (and rental) of keys
+  - Built-in system to handle key transactions and user management
 - Regular updates and improvements
 
 ## Installation
@@ -15,7 +19,8 @@ This repository contains public releases of the **ROK Data Scraper** application
 
 ## Usage
 - Follow the instructions provided in the documentation or within the app.
-- Ensure you have the necessary permissions for data extraction.
+- For key selling (cho thuê), navigate to the Key Manager section in the application.
+- Ensure you have the necessary permissions for data extraction and key management operations.
 
 ## Contribution
 Feel free to open issues if you find any bugs or have feature suggestions.
